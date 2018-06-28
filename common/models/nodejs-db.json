@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_db",
+  "plural": "pople",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
